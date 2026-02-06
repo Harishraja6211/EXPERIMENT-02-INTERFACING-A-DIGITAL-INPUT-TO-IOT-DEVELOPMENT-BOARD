@@ -7,7 +7,7 @@
 
 **ROLL NO: 212223220031**
 
-**DEPARTMENT: CSE**
+**DEPARTMENT: IT**
 
 ## Aim
 
